@@ -1,0 +1,15 @@
+Board Information Report
+Filename     : K:\Cloud\Altium\Projects\Gestus\hand.PcbDoc
+Date         : 16.04.2016
+Time         : 23:48:22
+Time Elapsed : 00:00:00
+
+Plated Hole Size, Pads, Vias
+    0mm, 70, 0
+    0.4mm, 0, 24
+    0.8mm, 2, 0
+    1mm, 15, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=JP4-2
+Removed Member From Class: ClassName=ruka Member=JP4
+Added Pin To Net: NetName=FMISO Pin=R3-2
